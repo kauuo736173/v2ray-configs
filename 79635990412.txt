@@ -2,9 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 
-vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@146.185.240.171:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#📲Обратная связь 79635990412
+vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@146.185.240.171:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#📲 Обратная связь 79635990412
 
-vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@146.185.240.171:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#Сервера⬇️
+vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@146.185.240.171:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#⬇️ Сервера
 
 vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@5.188.143.128:443?encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺AskhabVPN
 vless://1fb62a35-b930-485d-9eb7-5a660d28a78a@37.139.34.106:14552?encryption=none&type=xhttp&mode=auto&host=crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru&path=/payment&security=reality&fp=qq&sni=crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru&pbk=tM1JaTf-4yii3pAw1TYRC2Zkuu_1qgIS-43yZ5l971M&sid=e2a6b8aca120#🇷🇺2 AskhabVPN
