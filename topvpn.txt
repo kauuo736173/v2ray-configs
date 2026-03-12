@@ -21,7 +21,7 @@ vless://ac3299a5-fc16-43a7-81a7-579245618a18@mobi.vpnhub.shop:443?type=tcp&heade
 vless://ac3299a5-fc16-43a7-81a7-579245618a18@mobi.vpnhub.shop:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺 Антизаглушка 2
 vless://583c1bb2-3325-406c-9104-721c2104cfc7@rev.enigmabot.ru:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=2533f2fb6230#🇷🇺 Антизаглушка 3
 vless://583c1bb2-3325-406c-9104-721c2104cfc7@save.enigmabot.ru:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=yandex.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#🇷🇺 Антизаглушка 4
-vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@84.252.135.252:2443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=randomized&sni=pimg.mycdn.me&pbk=S-87aAW3KbKVfjiPy1qvy1PjQ1vj4hkbxSk4hI9zAkU&sid=53dba1d51d6819f1&spx=/#🇩🇪 Антизаглушка 5
+vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@84.252.135.252:2443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=randomized&sni=pimg.mycdn.me&pbk=S-87aAW3KbKVfjiPy1qvy1PjQ1vj4hkbxSk4hI9zAkU&sid=53dba1d51d6819f1&spx=/#🇩🇪 Антизаглушка 55
 vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@194.36.147.68:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=hello.opengate.tech&pbk=pJZdgXS61oBi-VKn1QQ59cJTLn3pRNUryhKGWw2q6gM&sid=f793e9e847fdba7f&spx=/#🇩🇪 Антизаглушка 6
 
 
