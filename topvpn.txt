@@ -5,7 +5,7 @@
 
 vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@146.185.240.171:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323# @ters
 vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@146.185.240.171:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#⬇️ Обычные сервера
-vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@138.124.32.50:2443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=randomized&sni=use.typekit.net&pbk=jyAmrIladACAoSP0EEcUhxvYUNj0ftL132BFqhtcK2Q&sid=0ec0e06a8bb19bc1&spx=/js9819280#🇩🇪 Германия FAST⚡️
+vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@85.93.10.97:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=fastsync.xyz&pbk=muLYnqGdHhl_0kk555yqwJym0yMNS6yXNUYzlvhidF4&sid=c912b13091f9e50d&spx=/#🇩🇪 Германия FAST⚡️
 vless://ac3299a5-fc16-43a7-81a7-579245618a18@gfast.vpnhub.shop:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.vk.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇩🇪 Германия 2
 vless://05fc150f-aaa4-4e33-845d-0c04e3399044@de-6.ummavpn.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de-6.ummavpn.com&pbk=u0F-nCZA6l-VwJifa3S2-uD3P-Q6vaARIvkQYnoCAnk&sid=0b4511d5e6db11a2#🇩🇪 Германия 3
 vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@188.225.43.101:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=randomized&sni=use.typekit.net&pbk=pIt_lj5_YQqp3mpD30uAkkZ-M5F8oBe-I5fW913TZ1U&sid=c3c7e06a8bc19bc1&spx=/js1219789#🇷🇺 Ютуб без рекламы ⚡️
