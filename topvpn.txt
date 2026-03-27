@@ -20,6 +20,6 @@ vless://583c1bb2-3325-406c-9104-721c2104cfc7@save.enigmabot.ru:443?security=real
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.153.187:443?type=ws&host=lk-cdn.deploy-assure.ru&path=//&security=tls&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇷🇺 Антизаглушка 2
 vless://6070c77d-acac-4915-8e65-f1f73da75381@51.250.86.184:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=sun9-38.userapi.com&pbk=yyI3McNa6QshCenGO9Zbt4HERusaFiafkV0S20SH5Rk&sid=bbf3e5b8c87f46c3&spx=/f7cf8afacebaa38c#🇩🇪 Антизаглушка
 vless://6070c77d-acac-4915-8e65-f1f73da75381@51.250.77.87:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=LEgnawD7VliYSnI92sHL6exc7QgeRbn53m_eGgoRXR0&sid=68fa381fbf73cd30&spx=/e1e129ce4bd69a65#🇩🇪 Антизаглушка 2
-
+vless://e9d89214-5a19-4621-8eaf-58790da45d13@146.185.242.208:5555?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=www.vk.com&pbk=imS00BOMVviktiAFypnoAQkpQ9-cmS-sWasAeTk2aiU&sid=9e3378923f8e0007&spx=/fsdfqpAqqwfqw21v#🇩🇪 Антизаглушка 3
 
 
