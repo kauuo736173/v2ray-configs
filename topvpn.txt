@@ -25,6 +25,7 @@ vless://fc3becc0-96e2-45b8-890a-7b746ad3c381@95.163.211.92:8443?flow=xtls-rprx-v
 vless://b1d3b911-616a-4be6-b7ca-db55e7e97018@202.49.176.212:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=csp.yandex.net&pbk=3tuhDj3HDg-FsbOc6ZCWHtA5Vqjxkf1Y-XhGV7LCUDw&sid=aff465e8e7b2d89b#🇷🇺 Россия 2
 vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@ru.rush-server.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=findmypackets.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#🇩🇪 Германия
 trojan://3DZzmX63m9Nk-y_nCraacXZtfE5Zvu52@de5.nnmm.me:443?type=tcp&security=tls&fp=chrome&sni=de5.nnmm.me&alpn=h2,http/1.1#🇩🇪 Германия 2
+vless:?type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&spx=#🇪🇪 Эстония
 vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@nl.rush-server.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=findmypackets.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🇳🇱 Нидерланды
 vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@lv.rush-server.com:8443?flow=&type=ws&host=huli-nada.com&path=/vwsS9d6&security=tls&sni=huli-nada.com&alpn=h2,http/1.1&fp=qq&allowInsecure=0#🇱🇻 Латвия
 vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@lv.rush-server.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=anyfile2file.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#🇱🇻 Латвия 2
