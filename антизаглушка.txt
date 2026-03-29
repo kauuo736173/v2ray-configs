@@ -1,3 +1,26 @@
+#profile-title: base64:8J+bkfCdkIDwnZCN8J2Qk/CdkIjwnZCZ8J2QgPCdkIbwnZCL8J2QlPCdkJLwnZCH8J2QivCdkIA=
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=31536000; expire=25462495310
+#support-url: wa.me/+79635990412
+
+#profile-test-interval: 300
+
+#profile-auto-switch: true
+
+#profile-allow-copy: false
+
+#profile-locked: true
+
+#profile-read-only: true
+
+#profile-prefer-ipv4: true
+
+#auto-continue: true
+
+#announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡 Ватсап +79635990412
+
+
+
 vless://cc877de3-ffb5-4d0a-9b01-ca086ab53df8@89.208.84.202:8443?mode=auto&path=%2Fws.js&security=reality&encryption=none&pbk=3fhnnUgU4zUNvhE43-cxG9lJwyJ5gLrvh_JG9D8AV0U&fp=edge&type=xhttp&sni=max.ru&sid=e10584b094deed07#%F0%9F%87%B3%F0%9F%87%B1+%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0+%7C+2
 vless://cc877de3-ffb5-4d0a-9b01-ca086ab53df8@95.163.214.83:7443?security=reality&encryption=none&pbk=S1LRZAgMS-bfA8rNXovBB8HA-mQR9eJPa5h-Z9dH9g8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%B3%F0%9F%87%B1+%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0+%7C+3
 vless://cc877de3-ffb5-4d0a-9b01-ca086ab53df8@95.163.213.119:9443?mode=multi&security=reality&encryption=none&pbk=S1LRZAgMS-bfA8rNXovBB8HA-mQR9eJPa5h-Z9dH9g8&fp=random&type=grpc&sni=max.ru&sid=d2fa1ca2a4bb7d53#%F0%9F%87%B8%F0%9F%87%AA+%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0+%7C+4
