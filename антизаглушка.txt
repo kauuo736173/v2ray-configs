@@ -1,6 +1,6 @@
 #profile-title: base64:8J+bkfCdkIDwnZCN8J2Qk/CdkIjwnZCZ8J2QgPCdkIbwnZCL8J2QlPCdkJLwnZCH8J2QivCdkIA=
 #profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=31536000000000000; expire=3153600073700
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=25462495310
 #support-url: wa.me/+79635990412
 
 #profile-test-interval: 300
