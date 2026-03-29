@@ -20,7 +20,8 @@
 #announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡 Ватсап +79635990412
 
 
-vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@152.53.60.82:503?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=www.amd.com&pbk=9dOhSnZ4mCH6yZt-cENXiJi1b4LGRNc-b9VXsSYjIRU&sid=b2560395eb768097&spx=/favicon.ico#🇪🇺 Основной
+vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@152.53.60.82:503?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=www.amd.com&pbk=9dOhSnZ4mCH6yZt-cENXiJi1b4LGRNc-b9VXsSYjIRU&sid=b2560395eb768097&spx=/favicon.ico#⚡️ Основной
 vless:type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&spx=#💊 Запасной
-vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@158.160.121.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=sun6-22.userapi.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#🇪🇺 Обход
-vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@158.160.121.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=sun6-22.userapi.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🇪🇺 Обход 2
+vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@158.160.121.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=sun6-22.userapi.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#🔑 Обход
+vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@158.160.121.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=sun6-22.userapi.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🔑 Обход 2
+vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@194.87.215.29:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=m.vk.ru&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&sid=8ac77e6b777376c8&spx=/#⚡️ Ютуб без рекламы
