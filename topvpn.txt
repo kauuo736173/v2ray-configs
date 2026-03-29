@@ -22,6 +22,6 @@
 
 vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@146.185.240.171:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#📱 Contact: +79635990412 
 vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@152.53.60.82:503?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=www.amd.com&pbk=9dOhSnZ4mCH6yZt-cENXiJi1b4LGRNc-b9VXsSYjIRU&sid=b2560395eb768097&spx=/favicon.ico#🇪🇺 Основной
-vless:?type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&spx=#💊 Запасной
+vless:type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&spx=#💊 Запасной
 vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@158.160.121.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=sun6-22.userapi.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#🇪🇺 Обход
 vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@158.160.121.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=sun6-22.userapi.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🇪🇺 Обход 2
