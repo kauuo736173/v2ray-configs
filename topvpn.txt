@@ -20,7 +20,7 @@
 #announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡 🟢 - Работает / 🔴 - Не работает
 
 
-vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@146.185.240.171:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#⬇️ Основные сервера 
+vless://24e6cde1-bcda-4f06-b79e-d409d33d729e@de.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=sun9-37.userapi.com&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128#📲 +79635990412 🔴 
 
 
 
