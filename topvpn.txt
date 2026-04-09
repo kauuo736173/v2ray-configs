@@ -17,10 +17,11 @@
 
 #auto-continue: true
 
-#announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡 🟢 - Работает / 🔴 - Не работает
+#announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!
+🟢 - Работает / 🔴 - Не работает
 
 
-vless://24e6cde1-bcda-4f06-b79e-d409d33d729e@de.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=sun9-37.userapi.com&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128#📲 +79635990412 🔴 
+vless://24e6cde1-bcda-4f06-b79e-d409d33d729e@de.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=sun9-37.userapi.com&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128#📲 +79635990412 
 
 
 
@@ -36,5 +37,4 @@ vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@158.160.121.171:443?flow=xtls-rprx-
 vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@lv.rush-server.com:8443?flow=&type=ws&host=huli-nada.com&path=/vwsS9d6&security=tls&sni=huli-nada.com&alpn=h2,http/1.1&fp=qq&allowInsecure=0#🇱🇻 Латвия 🟢
 vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@lv.rush-server.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=anyfile2file.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#🇱🇻 Латвия 2 🟢
 vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@lv.rush-server.com:8443?flow=&type=ws&host=huli-nada.com&path=/vwsS9d6&security=tls&sni=huli-nada.com&alpn=h2,http/1.1&fp=qq&allowInsecure=0#🇱🇻 Латвия 3 🟢
-vless://849e35a7-777e-4430-b8f3-1b4e10d2227b@ya1.cyphervpn.pro:2443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf#🇪🇺 БПЛА 🟢
-vless://849e35a7-777e-4430-b8f3-1b4e10d2227b@ya2.cyphervpn.pro:2443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf#🇪🇺 БПЛА 2 🟢
+vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@176.108.242.165:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=randomized&sni=pimg.mycdn.me&pbk=LW4kZEMbix1PIESoiJUi8pSl-uIaupCXn9LHq9znVDQ&spx=/#🇩🇪 БПЛА 🟢vless://1181856d-52d4-46e4-847e-2c0f50c8b7e5@158.160.121.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🇳🇱 БПЛА 2 🟢
