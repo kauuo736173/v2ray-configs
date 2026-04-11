@@ -17,7 +17,7 @@
 
 #auto-continue: true
 
-#announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно! 
+#announce:Статус: ✅ Активна | Осталось: 288 Дней
 
 
 vless://24e6cde1-bcda-4f06-b79e-d409d33d729e@de.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=sun9-37.userapi.com&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128#📲 +79635990412 
