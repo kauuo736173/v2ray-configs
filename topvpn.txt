@@ -26,6 +26,7 @@
 vless://3dd36b44-3c05-42b0-b3a8-547a855317a4@109.120.191.115:8083?type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Основной⚡️
 vless://ba3d82b4-8836-45fe-91e7-6c27989b4ab5@178.20.211.215:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=reserve.ayagut.ovh&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇸🇪 Швеция - Автовыбор
 vless://ba3d82b4-8836-45fe-91e7-6c27989b4ab5@45.145.40.61:7443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=speed.overload.ovh&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#🇩🇪 Германия - Автовыбор
+vless://ba3d82b4-8836-45fe-91e7-6c27989b4ab5@rumulti.federal-usa.com:8443?encryption=none&flow=&type=xhttp&mode=auto&host=&path=/&security=reality&fp=qq&sni=rumulti.federal-usa.com&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0#🇪🇺 EU - Автовыбор
 vless://ba3d82b4-8836-45fe-91e7-6c27989b4ab5@144.31.19.106:8443?encryption=none&flow=&type=ws&path=/ws&security=tls&fp=chrome&sni=flf.serverstats.ru&alpn=h2,http/1.1#🇫🇮 Финляндия - Автовыбор
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWLVVrWGRrOXRDa3pFX3VzeldTWThhS3VMSFp6ckxDRg==@144.31.131.241:9443#🇲🇩 Молдова - Автовыбор
 vless://ba3d82b4-8836-45fe-91e7-6c27989b4ab5@50.7.38.34:8090?encryption=none&flow=&type=ws&path=/ws&security=tls&fp=chrome&sni=gotraf.nodesecure.ru&alpn=h2,http/1.1#🇳🇱 Нидерланды - Автовыбор
