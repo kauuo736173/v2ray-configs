@@ -1,7 +1,6 @@
-#profile-title: "daysLeft":2,"trafficUsed":"0","trafficLimit":"30.00 GiB","lifetimeTrafficUsed":"0","lifetimeTrafficUsedBytes":"0","trafficLimitBytes":"32212254720","trafficUsedBytes":"0","username":"1186910_3tge8","expiresAt":"2026-04-20T19:51:38.000Z","isActive":true,"userStatus":"ACTIVE","trafficLimitStrategy":"MONTH"},
-base64:8J+SjvCdkJPwnZCo8J2QqfCdkJXwnZCP8J2QjQ==
+#profile-title: base64:8J+SjvCdkJPwnZCo8J2QqfCdkJXwnZCP8J2QjQ==
 #profile-update-interval: 1
-#subscription-userinfo: "daysleft":365; 
+#subscription-userinfo: "daysLeft":2,"trafficUsed":"0","trafficLimit":"30.00 GiB","lifetimeTrafficUsed":"0","lifetimeTrafficUsedBytes":"0","trafficLimitBytes":"32212254720","trafficUsedBytes":"0","username":"1186910_3tge8","expiresAt":"2026-04-20T19:51:38.000Z","isActive":true,"userStatus":"ACTIVE","trafficLimitStrategy":"MONTH"},
 #support-url: wa.me/+79635990412
 
 vless://b1d3b911-616a-4be6-b7ca-db55e7e97018@91.107.233.151:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=egress.yandex.net&pbk=3tuhDj3HDg-FsbOc6ZCWHtA5Vqjxkf1Y-XhGV7LCUDw&sid=aff465e8e7b2d89b#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20-%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%E2%9A%A1%EF%B8%8F
