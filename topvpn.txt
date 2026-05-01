@@ -23,7 +23,8 @@
 
 
  
-vless://cd802712-76b5-4672-ad7d-7d11476bcd58@neth1.api3-max.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=nether1.ikisky.com&pbk=hOUwTtuq2-jG7uKSgnrKIWxj3HdPYvvL7Kj3nrFTKA4&sid=49c667cd18477438#🇪🇺 Автовыбор 
+vless://cd802712-76b5-4672-ad7d-7d11476bcd58@neth1.api3-max.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=nether1.ikisky.com&pbk=hOUwTtuq2-jG7uKSgnrKIWxj3HdPYvvL7Kj3nrFTKA4&sid=49c667cd18477438#🇪🇺 Автовыбор ⚡️
+vless://b1d3b911-616a-4be6-b7ca-db55e7e97018@91.107.233.151:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=egress.yandex.net&pbk=3tuhDj3HDg-FsbOc6ZCWHtA5Vqjxkf1Y-XhGV7LCUDw&sid=aff465e8e7b2d89b#🇪🇺 Запасной Автовыбор ⚡️
 vless://b1d3b911-616a-4be6-b7ca-db55e7e97018@de.skypasses.cc:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api.vk.com&pbk=3tuhDj3HDg-FsbOc6ZCWHtA5Vqjxkf1Y-XhGV7LCUDw&sid=aff465e8e7b2d89b#🇩🇪 Германия FAST ⚡️
 vless://77ea6d17-dcac-4f70-9a85-320cadbf019c@de.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=sun9-37.userapi.com&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128#🇩🇪 Германия 2
 vless://a042e8ae-8b01-4fa0-868b-03a544993950@212.95.39.25.vhub.pro:443?encryption=none&flow=&type=grpc&mode=gun&serviceName=/sequre/grpc/&authority=&security=tls&fp=chrome&sni=212.95.39.25.vhub.pro&mux=8#🇩🇪 Германия 3
