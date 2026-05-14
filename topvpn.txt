@@ -23,7 +23,7 @@
 
 
  
-vless://e8643980-2a19-42f2-9c95-0dd3839d1c3a@85.93.10.112:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=randomized&sni=currency.rest&pbk=jxFvY1W8mS7K8aKMJIsJwbA0MyO4WujHiOVUO-H4T2c#🇩🇪 Германия FAST⚡️
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@45.133.251.23:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇩🇪 Германия FAST⚡️
 vless://a042e8ae-8b01-4fa0-868b-03a544993950@91.243.86.228:443?encryption=none&flow=&type=grpc&mode=gun&serviceName=xraygrpc&authority=hostoff.net&security=reality&fp=safari&sni=hostoff.net&pbk=q3sMB7EjGa7fU5yyFVuMaaJ9gRDxNrMyyyeFh7yjJCA&sid=9ac9e73ec9c3d4d6&spx=/favicon.svg#🇷🇺 Ютуб без рекламы
 vless://db86fdbe-ae4a-4156-b4e0-2cac719598ee@46.226.163.149:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=web.max.ru&pbk=k21LuaOwLzy8VII6ty8uY4Ci_sCVYkaXeb2PdM1nDyo&sid=6dbf4f5fa8ed9b38#🇬🇧 Великобритания
 vless://b1d3b911-616a-4be6-b7ca-db55e7e97018@144.31.1.162:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=swcdn.apple.com&pbk=3tuhDj3HDg-FsbOc6ZCWHtA5Vqjxkf1Y-XhGV7LCUDw&sid=aff465e8e7b2d89b#🇵🇱 Польша
