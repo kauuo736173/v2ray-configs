@@ -57,6 +57,7 @@ vless://cd802712-76b5-4672-ad7d-7d11476bcd58@top3544328020.mwscdn.ru:443?encrypt
 vless://cd802712-76b5-4672-ad7d-7d11476bcd58@top2739020656.mwscdn.ru:443?encryption=none&flow=&type=xhttp&mode=auto&host=&path=/xhttppath&security=tls&fp=chrome&sni=top2739020656.mwscdn.ru#🇷🇺 Антизаглушка 16
 vless://cd802712-76b5-4672-ad7d-7d11476bcd58@top3880835722.mwscdn.ru:443?encryption=none&flow=&type=xhttp&mode=auto&host=&path=/xhttppath&security=tls&fp=chrome&sni=top3880835722.mwscdn.ru#🇷🇺 Антизаглушка 17
 vless://cd802712-76b5-4672-ad7d-7d11476bcd58@top2276748238.mwscdn.ru:443?encryption=none&flow=&type=xhttp&mode=auto&host=&path=/xhttppath&security=tls&fp=chrome&sni=top2276748238.mwscdn.ru#🇷🇺 Антизаглушка 18
-
+vless://c3b5c3e1-598e-40b5-893d-05d966d781ed@top3325418716.mwscdn.ru:443?encryption=none&flow=&type=ws&path=/api/v3/events/stream&security=tls&fp=chrome&sni=mwscdn.ru&alpn=h3,h2,http/1.1#🇷🇺 Антизаглушка 19
+vless://06b356ed-4716-4eeb-b330-865d939fae50@top2138896594.mwscdn.ru:443?encryption=none&flow=&type=ws&path=/api/v3/events/stream&security=tls&fp=chrome&sni=mwscdn.ru&alpn=h3,h2,http/1.1#🇷🇺 Антизаглушка 20
 
 
