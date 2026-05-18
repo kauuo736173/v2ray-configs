@@ -49,8 +49,9 @@ vless://a042e8ae-8b01-4fa0-868b-03a544993950@5.188.115.161:443?type=grpc&mode=gu
 vless://a042e8ae-8b01-4fa0-868b-03a544993950@5.188.115.161:443?type=grpc&mode=gun&serviceName=xraygrpc&security=reality&fp=qq&sni=max.ru&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&sid=104ddee73f941bc4&spx=/8acd03ca09a8b2e4#%F0%9F%87%AA%F0%9F%87%BA%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%207
 vless://a042e8ae-8b01-4fa0-868b-03a544993950@5.188.115.161:443?flow=&type=grpc&mode=gun&serviceName=xraygrpc&security=reality&fp=qq&sni=max.ru&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&sid=104ddee73f941bc4&spx=/8acd03ca09a8b2e4#%F0%9F%87%B3%F0%9F%87%B1%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%208
 vless://a042e8ae-8b01-4fa0-868b-03a544993950@5.188.115.161:443?flow=&type=grpc&mode=gun&serviceName=xraygrpc&security=reality&fp=qq&sni=max.ru&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&sid=104ddee73f941bc4&spx=/8acd03ca09a8b2e4#%F0%9F%87%B3%F0%9F%87%B1%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%209
-vless://a042e8ae-8b01-4fa0-868b-03a544993950@5.188.115.161:443?flow=&type=grpc&mode=gun&serviceName=xraygrpc&security=reality&fp=qq&sni=max.ru&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&sid=104ddee73f941bc4&spx=/8acd03ca09a8b2e4#🇬🇪 Антизаглушка 11
-vless://b1d3b911-616a-4be6-b7ca-db55e7e97018@91.108.122.216:443?type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=st7-23.vk.com&pbk=IgaNLuUg1JOIoUdX4CegMU_XBU35B5RAYRL_-KZfpSY&sid=c84a28bb05989ff4&spx=/example#🇱🇹 Антизаглушка 12
+vless://a042e8ae-8b01-4fa0-868b-03a544993950@5.188.115.161:443?encryption=none&flow=&type=grpc&mode=gun&serviceName=xraygrpc&authority=max.ru&security=reality&fp=qq&sni=max.ru&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&sid=104ddee73f941bc4&spx=/8acd03ca09a8b2e4#🇳🇱 Антизаглушка 11
+vless://a042e8ae-8b01-4fa0-868b-03a544993950@5.188.115.161:443?flow=&type=grpc&mode=gun&serviceName=xraygrpc&security=reality&fp=qq&sni=max.ru&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&sid=104ddee73f941bc4&spx=/8acd03ca09a8b2e4#🇬🇪 Антизаглушка 12
+vless://b1d3b911-616a-4be6-b7ca-db55e7e97018@91.108.122.216:443?type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=st7-23.vk.com&pbk=IgaNLuUg1JOIoUdX4CegMU_XBU35B5RAYRL_-KZfpSY&sid=c84a28bb05989ff4&spx=/example#🇱🇹 Антизаглушка 13
 
 
 
