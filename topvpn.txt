@@ -71,3 +71,4 @@ vless://06b356ed-4716-4eeb-b330-865d939fae50@top2138896594.mwscdn.ru:443?encrypt
 vless://1cf6b04a-1352-4573-9260-5c99f33a0580@158.160.166.176:8443?encryption=none&flow=&type=grpc&mode=gun&serviceName=grpc&authority=#🇷🇺 Антизаглушка 31
 vless://0fbd033a-341e-4045-ab7b-8573878bd579@ge1.internetest.vip:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&sid=13&spx=/#🇷🇺 Антизаглушка 32
 vless://9ee76bc8-b133-4132-ad52-a0155495010f@ge1.internetest.vip:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&sid=13&spx=/#🇷🇺 Антизаглушка 33
+vless://9d85c901-bafd-436f-891b-7016c6a381ff@213.219.212.224:8443?encryption=none&flow=&type=xhttp&mode=auto&host=eh.vk.ru&path=/&security=reality&fp=chrome&sni=eh.vk.ru&pbk=KEE8BpZi2DrjuLWavYBV0U_9IY_JEwekBf9C4espIQo&sid=0e5ca444f937663d&spx=/#🇷🇺 TEST
