@@ -17,11 +17,12 @@
 
 #auto-continue: true
 
-#announce:Статус подписки: ✅ Активна | 📲 +79635990412 | Антизаглушки расходуют больше трафика используйте только когда глушат связь❗️| Хар ключ эца оьцш юх духкш волчуьн и ахч хьарам дин дукх
+#announce:Статус подписки: ✅ Активна | 📲 +79635990412 | Антизаглушки расходуют больше трафика используйте только когда глушат связь❗️| Номер настоящего продавца/создателя указан в начале, приобретайте только у него остальные фейк и скам❗️
 
 
 
 
+vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#🇪🇺 +79635990412
 vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#🇪🇺 EU - FAST ⚡️
 vless://44609041-0541-47bc-9317-61a8d5dc2c2a@nd9.goat-vpn.org:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.yahoo.com&pbk=7lOvT81EMVl7Vlp3blcfFUyIHOJ3fGUQmK-AEg5SqCU&sid=4f78e7c3b243&spx=/#🇪🇺 EU - 2
 vless://af5799e8-3880-4fad-aa12-20f06d3aded8@leto.softupdatecenter.com:443?encryption=none&flow=&type=xhttp&mode=auto&host=leto.softupdatecenter.com&path=/xhttp-universal/&security=tls&fp=chrome&sni=leto.softupdatecenter.com&alpn=h2#🇪🇺 EU - 3
@@ -57,3 +58,4 @@ vless://04bf9106-a5d9-4645-ba8b-dc3c3e22d71d@51.250.64.37:445?encryption=none&fl
 vless://04bf9106-a5d9-4645-ba8b-dc3c3e22d71d@84.201.135.127:445?encryption=none&flow=&type=grpc&mode=gun&serviceName=grpc&authority=&security=reality&fp=chrome&sni=ads.x5.ru&pbk=B2pWu3adjEXgCtBXrOwJ0Q0qDnFDq2avwIjK5zkNeRA&sid=fa305a6ed6738f84&spx=/#🇪🇺 EU - Обход - 4
 vless://53105375-12bb-4deb-8667-6006a9e83829@46.8.209.123:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Zl74vs1BxyTNhsKhXA5hMLtNld4owSlSIPLwFOn90nc&sid=9078b6e380e60ac7#🇪🇺 EU - Обход - 5
 vless://53105375-12bb-4deb-8667-6006a9e83829@46.8.209.122:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=alpha4.minigames.mail.ru&pbk=7oymTopNbHUmyJSSmJDVgb7E0usD7nhzaV35tKBHWgg&sid=9078b8e380e60ac8#🇪🇺 EU - Обход - 6
+vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#🇪🇺 +79635990412
