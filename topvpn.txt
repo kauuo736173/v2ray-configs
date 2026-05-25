@@ -17,11 +17,15 @@
 
 #auto-continue: true
 
-#announce:Статус подписки: ✅ Активна | 📲 +79635990412 | Антизаглушки расходуют больше трафика используйте только когда глушат связь❗️| Хар ключ эца оьцш юх духкш волчуьн и ахч хьарам дин дукх
+#announce:Статус подписки: ❌ Не активна | 📲 +79635990412 | За новым ключем пишите в ватсап
 
 
 
 
+vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#❗️ПОДПИСКА НЕ АКТИВНА
+vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#❗️ НАПИШИТЕ НА НОМЕР
+vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#❗️ +79635990412 Ватсап
+vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#❗️ ВЫДАДУТ НОВЫЙ КЛЮЧ
 vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#🇪🇺 EU - FAST ⚡️
 vless://44609041-0541-47bc-9317-61a8d5dc2c2a@nd9.goat-vpn.org:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.yahoo.com&pbk=7lOvT81EMVl7Vlp3blcfFUyIHOJ3fGUQmK-AEg5SqCU&sid=4f78e7c3b243&spx=/#🇪🇺 EU - 2
 vless://af5799e8-3880-4fad-aa12-20f06d3aded8@leto.softupdatecenter.com:443?encryption=none&flow=&type=xhttp&mode=auto&host=leto.softupdatecenter.com&path=/xhttp-universal/&security=tls&fp=chrome&sni=leto.softupdatecenter.com&alpn=h2#🇪🇺 EU - 3
