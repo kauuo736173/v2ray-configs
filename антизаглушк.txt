@@ -24,8 +24,8 @@
 
 vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#🇪🇺 +79635990412
 vless://995e6b4d-1d71-4542-95c7-dda552b6cd1c@109.248.42.179:7443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#🇪🇺 Евросоюз - Основной ⚡️
-vless://c52f0866-cef1-4ec9-91a4-e61d82d98069@yaded.cloudstreamself.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=apple.com&pbk=Eu-kqzDCZ8vGEBY4wnlTCLSMlli6uNuLH359NeBfxnc#🇪🇺 Евросоюз - Для Соц-сетей 📱
-vless://995e6b4d-1d71-4542-95c7-dda552b6cd1c@77.239.126.151:44444?encryption=none&flow=&type=xhttp&mode=auto&host=&security=reality&fp=firefox&sni=apple.com&pbk=t7zppcy4X6f3INaKOTOX6hsc84UoykNlRiKYKkA-TXo&spx=/#🇪🇺 Евросоюз - Автовыбор - ⚡️
+vless://c52f0866-cef1-4ec9-91a4-e61d82d98069@yaded.cloudstreamself.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=apple.com&pbk=Eu-kqzDCZ8vGEBY4wnlTCLSMlli6uNuLH359NeBfxnc#🇪🇺 Евросоюз - Стабильный ⚡️
+vless://995e6b4d-1d71-4542-95c7-dda552b6cd1c@77.239.126.151:44444?encryption=none&flow=&type=xhttp&mode=auto&host=&security=reality&fp=firefox&sni=apple.com&pbk=t7zppcy4X6f3INaKOTOX6hsc84UoykNlRiKYKkA-TXo&spx=/#🇪🇺 Евросоюз - Автовыбор ⚡️
 vless://992830d2-6d30-42ad-885f-a50b3889cfc2@46.8.209.123:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Zl74vs1BxyTNhsKhXA5hMLtNld4owSlSIPLwFOn90nc&sid=9078b6e380e60ac7#🇪🇺 Евросоюз - Обход
 vless://992830d2-6d30-42ad-885f-a50b3889cfc2@46.8.209.123:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Zl74vs1BxyTNhsKhXA5hMLtNld4owSlSIPLwFOn90nc&sid=9078b6e380e60ac7#🇪🇺 Евросоюз - Обход 2
 vless://992830d2-6d30-42ad-885f-a50b3889cfc2@84.201.174.25:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=jump.x5.ru&pbk=dF9CDDUffnzSv4opnPvxNtV7YxGYLWE79YltK98uzgE#🇪🇺 Евросоюз - Обход 3
