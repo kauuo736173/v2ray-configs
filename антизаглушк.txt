@@ -71,15 +71,9 @@ vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.101:4443?type=grpc&mode=
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.104:4443?type=grpc&mode=gun&serviceName=&security=none#🇸🇪 Швеция 21
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-pl-1c.ray-balance.space:4443?type=grpc&mode=gun&serviceName=&security=none#🇸🇪 Швеция 22
 vless://992830d2-6d30-42ad-885f-a50b3889cfc2@46.8.209.123:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Zl74vs1BxyTNhsKhXA5hMLtNld4owSlSIPLwFOn90nc&sid=9078b6e380e60ac7#🇪🇺 EU - Обход
-vless://992830d2-6d30-42ad-885f-a50b3889cfc2@46.8.209.123:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Zl74vs1BxyTNhsKhXA5hMLtNld4owSlSIPLwFOn90nc&sid=9078b6e380e60ac7#🇪🇺 Евросоюз - Обход 2
-vless://992830d2-6d30-42ad-885f-a50b3889cfc2@84.201.174.25:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=jump.x5.ru&pbk=dF9CDDUffnzSv4opnPvxNtV7YxGYLWE79YltK98uzgE#🇪🇺 Евросоюз - Обход 3
-vless://6cb0eac3-e3ee-4d30-a8e4-63d02f7b0a30@130.49.148.134:2053?encryption=none&flow=&type=ws&path=/Q4Rh2OKHkV445SsgEmzqnoNzK?ed%3D2560&security=tls&fp=chrome&sni=nl01cdn.mediasync-api.com&alpn=h2,http/1.1#🇪🇺 Евросоюз - Обход 4
+vless://992830d2-6d30-42ad-885f-a50b3889cfc2@46.8.209.123:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Zl74vs1BxyTNhsKhXA5hMLtNld4owSlSIPLwFOn90nc&sid=9078b6e380e60ac7#🇪🇺 EU - Обход 2
+vless://992830d2-6d30-42ad-885f-a50b3889cfc2@84.201.174.25:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=jump.x5.ru&pbk=dF9CDDUffnzSv4opnPvxNtV7YxGYLWE79YltK98uzgE#🇪🇺 EU - Обход 3
+vless://6cb0eac3-e3ee-4d30-a8e4-63d02f7b0a30@130.49.148.134:2053?encryption=none&flow=&type=ws&path=/Q4Rh2OKHkV445SsgEmzqnoNzK?ed%3D2560&security=tls&fp=chrome&sni=nl01cdn.mediasync-api.com&alpn=h2,http/1.1#🇪🇺 EU - Обход 4
 vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🇳🇱 Нидерланды - Обход 
 hysteria2://9c60ed527f4a8257da49f608a2f1782f@185.200.241.196:24443?sni=trojan.t1n2.com&insecure=0#🇨🇿 Чехия - Обход
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@57.131.28.246:2083
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443
-vmess://eyJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsInRscyI6InRscyIsIm5ldCI6IndzIiwidiI6IjIiLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwicHMiOiLwn4ez8J+HsTIxNi4gIFRoZSBOZXRoZXJsYW5kcyIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwicGF0aCI6IlwvYXBpXC92MVwvZ3B1LXN0cmVhbVwvc29ja2V0IiwiYWxsb3dJbnNlY3VyZSI6MH0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388
-vmess://eyJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsImlkIjoiZGY5YzkzNTUtYjAyYy00YzEyLTkwOWQtMGRiZWI3MjVkNTJiIiwicHMiOiLwn4ez8J+HsTIzNy4gIFRoZSBOZXRoZXJsYW5kcyIsIm5ldCI6IndzIiwicGF0aCI6IlwvYXBpXC92MVwvZ3B1LXN0cmVhbVwvc29ja2V0IiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInBvcnQiOiI0NDMiLCJ2IjoiMiIsImFsbG93SW5zZWN1cmUiOjAsInRscyI6InRscyIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93In0=
-ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0=@86.106.84.198:13265
 vless://af5799e8-3880-4fad-aa12-20f06d3aded8@setadest.tokervpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU#🇪🇺 +79635990412
