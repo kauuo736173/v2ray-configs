@@ -24,3 +24,9 @@ vless://310a32b3-984c-4a21-a5cc-2437bb3671a4@194.107.126.162:8443?encryption=non
 vless://66824c94-7ba9-4113-908e-bd793f296852@45.198.96.250:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&type=tcp&sid=764f497dda21c4fc#🇪🇺 Обход БС
 vless://310a32b3-984c-4a21-a5cc-2437bb3671a4@176.109.88.223:443?encryption=none&security=tls&sni=31.59.125.111.fwqfw783rg2dad.website&fp=firefox&type=ws&host=31.59.125.111.fwqfw783rg2dad.website&path=%2Fwebsocket%3Fed%3D2560#🇪🇺 Обход БС 2
 vless://310a32b3-984c-4a21-a5cc-2437bb3671a4@176.109.88.223:443?encryption=none&security=tls&sni=13.143.130.73.fwqfw783rg2dad.website&fp=firefox&type=ws&host=13.143.130.73.fwqfw783rg2dad.website&path=%2Fwebsocket%3Fed%3D2560#🇪🇺 Обход БС 3
+vless://0036ae55-1684-4ebc-a52c-32f1fcf0e044@66.81.247.109:8880?type=ws&security=none&sni=66.81.247.109&path=/cdn/assets/stream&host=cnd.sweden.mediasync-api.com#🚀 Запасной
+vless://0036ae55-1684-4ebc-a52c-32f1fcf0e044@66.81.247.52:8880?type=ws&security=none&sni=66.81.247.52&path=/cdn/assets/stream&host=cnd.estonia.mediasync-api.com#🚀 Запасной
+vless://0036ae55-1684-4ebc-a52c-32f1fcf0e044@66.81.247.109:8880?type=ws&security=none&sni=66.81.247.109&path=/cdn/assets/stream&host=cnd.uk.myfilecdn.com#🚀 Запасной
+vless://0036ae55-1684-4ebc-a52c-32f1fcf0e044@no.cnd.sweden.mediasync-api.com:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=tradingview.com&pbk=CetY_ReGID1LBH275yWlxxOctI82PtgxR-fjYSRTKzM&sid=8a2b3c4d5e6f7012#🚀 Запасной
+vless://0036ae55-1684-4ebc-a52c-32f1fcf0e044@66.81.247.109:8880?type=ws&security=none&sni=66.81.247.109&path=/cdn/assets/stream&host=cnd.finland2.2.mediasync-api.com#🚀 Запасной
+vless://82719790-ff61-4284-8668-ba140a4d6cbd@193.187.95.21:20040?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=O4ymaaoTi3woCs3MWktyrXKhlU5RCK1Wo0G_T0u_Vi4&sid=5db60b1f#🚀 Запасной
