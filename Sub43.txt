@@ -20,6 +20,7 @@
 
 vless://33714ac1-f6e0-488a-b1f8-a4f0a59b1b44@151.101.111.60:443?type=xhttp&security=tls&fp=chrome&sni=accounts.fastly.com&path=/&host=ovd5.global.ssl.fastly.net&mode=packet-up&alpn=h3#🇪🇺 ⚡️ Основной
 vless://55f28f5f-153a-4b79-a41a-39dd1b31504c@20.08-6.yunus.guru:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=20.08-6.yunus.guru&pbk=hiYMSgK38yc1VX8BHlXLutTQVXRg680notMzZ84nAjI&sid=8ab7a5e3a54b4dc3#🇪🇺 💊 Запасной
+vless://2ab5d143-d8be-4506-b8ae-039fee32dfa2@189.74.124.10:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=by.cdn-global.pro&pbk=VJW18faTJ9MNU_LWHziWlo-BTrevTZ9xxtaif553CRo&sid=7a3f9e2b1c8d4f6a#🇪🇺 Соц сети / YouTube
 vless://33ec1638-ef61-4082-bf68-5a0523c15b75@bel1.pandaonline.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bel1.pandaonline.org&fp=firefox&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM&type=tcp#🇪🇺 Тест LTE #1
 vless://33ec1638-ef61-4082-bf68-5a0523c15b75@aut1.pandaonline.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aut1.pandaonline.org&fp=firefox&pbk=u_XXbyCKtsoktrL7Fr18etd0GkXNnEI-YGKMuTywsEo&type=tcp#🇪🇺 Тест LTE #2
 vless://33ec1638-ef61-4082-bf68-5a0523c15b75@bel2.pandaonline.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bel2.pandaonline.org&fp=firefox&pbk=7o1jjBQhSSkXhRz9TPqvtYBj9GnJAuH3JJVxc7_DTWI&type=tcp#🇪🇺 Тест LTE #3
